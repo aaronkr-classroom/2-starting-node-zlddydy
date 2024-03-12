@@ -1,9 +1,6 @@
 # 노드 시작하기
 
-이 과제는 두 부분으로 나뉩니다.
-
-1. '웹프로그래밍 복습'
-2. '노드 시작하기'
+1. '노드 시작하기'
 
 과제를 완료하려면
 
@@ -13,36 +10,9 @@
 4. `commit`하고 GitHub 클래스룸으로 다시 `push` 하십시오.
 5. 또한 GitHub 클래스룸의 테스트를 통과하는지 확인하십시오.
 
-| [**오전** 과제](https://classroom.github.com/a/ufXcgZ68) | [_오후_ 과제](https://classroom.github.com/a/YeQuxwK6) |
-
 ---
 
-## 1. 웹프로그래밍 복습
-
-이 것은 **수업**에서 하겠습니다.
-
-이 섹션은 세 부분으로 나뉘며 각 부분에 대한 별도의 파일이 있습니다. 시작 파일은 `web-programming-review` 폴더에 있습니다. 이 복습 섹션은 웹프로그래밍의 기본 원칙을 상기시키기 위한 것입니다.
-
-1. HTML: 태그와 속성으로 웹사이트의 구조를 만듭니다
-2. CSS: 선택자의 속성 및 값으로 스타일을 지정합니다
-3. JavaScript: 웹사이트에 기능을 추가합니다
-
-[Heropy 튜토리얼](https://heropy.blog/2019/04/24/html-css-starter/)에서 보여준 것처럼 매우 간단한 탐색 메뉴를 만들 것입니다.<br>
-그런 다음에 [Dev.to 코드](https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0)를 사용하여 반응형 메뉴를 만들 것입니다.
-
-![heropy-tutorial-img](https://heropy.blog/images/screenshot/html-css-starter/guthub_clone_page_header_structure.jpg)
-
-수업 중 코딩을 따라하거나 Heropy의 투토리얼을 따를 수 있습니다. 파일의 모든 @TODO 섹션을 작성하십시오. 또한 원하는 경우 추가 요소나 스타일로 메뉴를 업그레이드도 할 수 있습니다.
-
-### 보충 연습 (선택)
-
-1. GitHub 헤더 생성 완료 (오른쪽)
-2. 홈페이지 내용 생성 추가
-3. 바닥글(footer) 섹션 추가
-
----
-
-## 2. 노드 시작하기
+## 1. 노드 시작하기
 
 이 것은 **과제**입니다.
 
